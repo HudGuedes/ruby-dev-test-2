@@ -1,0 +1,10 @@
+# Refactoring de relacionamento
+
+> A Madonna resolveu lançar um album em parceria com a Shakira! E agora?!
+
+Nosso PO jamais iria esperar que um album pudesse ter mais de um artista. Transforme a relacão 1 para N entre Player e Album em uma relação N para N. Precisamos de testes senão o chato do agilista vai brigar conosco!
+
+<h1>Tecnologias utilizadas</h1>
+
+- ruby '2.4.1'
+- rails '5.2.0'
